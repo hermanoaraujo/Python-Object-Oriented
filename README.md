@@ -8,8 +8,8 @@
 ----
 ## Category
 1. [Herance](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Herance)
-2. [Repeticao](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Class-Abstract)
-3. [Vetores](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Polimorfism)
-4. [Matriz](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Exceptions)
+2. [Class Abstract](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Class-Abstract)
+3. [Polimorfism](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Polimorfism)
+4. [Exceptions](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Exceptions)
 
 ----
