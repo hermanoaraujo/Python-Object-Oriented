@@ -1,4 +1,4 @@
-# Structured and object-oriented programming learning repository
+# Structured and object-oriented programming learning
 
 ----
 ## What will you find here?
@@ -7,9 +7,10 @@
 
 ----
 ## Category
-1. [Herance](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Herance)
-2. [Class Abstract](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Class-Abstract)
-3. [Polimorfism](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Polimorfism)
-4. [Exceptions](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Exceptions)
+2. [Introduction to Class](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Introduction-to-Class)
+2. [Herance](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Herance)
+3. [Class Abstract](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Class-Abstract)
+4. [Polimorfism](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Polimorfism)
+5. [Exceptions](https://github.com/hermanoaraujo/Python-Object-Oriented/tree/master/Exceptions)
 
 ----
